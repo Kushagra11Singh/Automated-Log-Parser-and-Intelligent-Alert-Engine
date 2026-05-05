@@ -1,0 +1,50 @@
+[
+  {
+    "alert_type": "HIGH_ERROR_RATE",
+    "fired_at": "2026-05-05T17:22:58.497Z",
+    "value": 42.0,
+    "threshold": 20.0,
+    "window_minutes": 5,
+    "message": "Error rate 42.0% exceeds threshold 20.0% over last 5 min (84/200 events)"
+  },
+  {
+    "alert_type": "CRITICAL_THRESHOLD_EXCEEDED",
+    "fired_at": "2026-05-05T17:22:58.497Z",
+    "value": 41,
+    "threshold": 3,
+    "window_minutes": 5,
+    "message": "41 CRITICAL events in last 5 min, threshold is 3"
+  },
+  {
+    "alert_type": "HIGH_ERROR_RATE",
+    "fired_at": "2026-05-05T17:29:57.064Z",
+    "value": 39.0,
+    "threshold": 20.0,
+    "window_minutes": 5,
+    "message": "Error rate 39.0% exceeds threshold 20.0% over last 5 min (78/200 events)"
+  },
+  {
+    "alert_type": "CRITICAL_THRESHOLD_EXCEEDED",
+    "fired_at": "2026-05-05T17:29:57.064Z",
+    "value": 38,
+    "threshold": 3,
+    "window_minutes": 5,
+    "message": "38 CRITICAL events in last 5 min, threshold is 3"
+  },
+  {
+    "alert_type": "HIGH_ERROR_RATE",
+    "fired_at": "2026-05-05T17:30:18.256Z",
+    "value": 39.0,
+    "threshold": 20.0,
+    "window_minutes": 5,
+    "message": "Error rate 39.0% exceeds threshold 20.0% over last 5 min (78/200 events)"
+  },
+  {
+    "alert_type": "CRITICAL_THRESHOLD_EXCEEDED",
+    "fired_at": "2026-05-05T17:30:18.256Z",
+    "value": 38,
+    "threshold": 3,
+    "window_minutes": 5,
+    "message": "38 CRITICAL events in last 5 min, threshold is 3"
+  }
+]

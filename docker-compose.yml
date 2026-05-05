@@ -1,0 +1,14 @@
+
+version: "3.9"
+
+services:
+  log-alert-engine:
+    build: .
+    container_name: log-alert-engine
+    ports:
+      - "5001:5001"
+    volumes:
+      - ./logs:/app/logs
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped

@@ -1,0 +1,1202 @@
+[
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "CRITICAL",
+    "message": "SSL certificate expired for domain=payments",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "CRITICAL",
+    "message": "Database cluster unreachable after orders retries",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "WARNING",
+    "message": "Queue depth growing: 512 messages pending",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "CRITICAL",
+    "message": "SSL certificate expired for domain=orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process 42",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/3.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "INFO",
+    "message": "Request completed in cache_v2ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "INFO",
+    "message": "Cache hit for key=88",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "INFO",
+    "message": "Request completed in 3ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=auth",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=42",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "WARNING",
+    "message": "Memory usage at cache_v2%",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "WARNING",
+    "message": "Queue depth growing: auth messages pending",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=42",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/auth.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.061Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in 42ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=7",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Database connection failed: timeout after cache_v2s",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/123.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Database cluster unreachable after cache_v2 retries",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Disk usage at payments% \u2014 write operations failing",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: 512",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Unhandled exception in module=88",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=7",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "SSL certificate expired for domain=512",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Database cluster unreachable after 512 retries",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in 42ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Database cluster unreachable after 7 retries",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/42.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in authms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=512",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=payments",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Unhandled exception in module=7",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=payments",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=3",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Memory usage at payments%",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=3",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in 512ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Database cluster unreachable after 99 retries",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=88",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: auth",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in paymentsms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Queue depth growing: payments messages pending",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: cache_v2",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: 123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Response time degraded: 42ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Queue depth growing: 7 messages pending",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Queue depth growing: 42 messages pending",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=user_service",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=7",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Unhandled exception in module=7",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Response time degraded: ordersms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: 3",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: payments",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Service user_service returned 500",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process 88",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Database cluster unreachable after 512 retries",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Retry attempt 512 for service=auth",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Deprecated API endpoint called: /api/v1/cache_v2",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Unhandled exception in module=512",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Deprecated API endpoint called: /api/v1/512",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in user_servicems",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: auth",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=3",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "SSL certificate expired for domain=99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Memory usage at user_service%",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Queue depth growing: 123 messages pending",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Database cluster unreachable after 7 retries",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Database cluster unreachable after 3 retries",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=7",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Queue depth growing: cache_v2 messages pending",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Database cluster unreachable after 3 retries",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Service orders returned 500",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Response time degraded: 42ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Database cluster unreachable after orders retries",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Response time degraded: user_servicems",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/42.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "SSL certificate expired for domain=cache_v2",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Response time degraded: 512ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process 512",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Unhandled exception in module=payments",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=3",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Retry attempt 99 for service=512",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: 3",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process 88",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Disk usage at 123% \u2014 write operations failing",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Queue depth growing: 512 messages pending",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: auth",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=cache_v2",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Disk usage at 88% \u2014 write operations failing",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Disk usage at 7% \u2014 write operations failing",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Disk usage at 99% \u2014 write operations failing",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in 88ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Response time degraded: cache_v2ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in 3ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process 123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Service user_service returned 500",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: auth",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=7",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in 42ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Queue depth growing: 7 messages pending",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=88",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in cache_v2ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Memory usage at auth%",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/7.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process 99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=cache_v2",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=3",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in authms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "SSL certificate expired for domain=7",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=user_service",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Memory usage at 3%",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Unhandled exception in module=123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Unhandled exception in module=orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Service 42 returned 500",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Unhandled exception in module=user_service",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Failed to process request for user_id=123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/99.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=512",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Disk usage at payments% \u2014 write operations failing",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in 123ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=512",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/auth.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=auth",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process 3",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: cache_v2",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Memory usage at auth%",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in 512ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in authms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process 3",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "SSL certificate expired for domain=payments",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Response time degraded: ordersms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: user_service",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=payments",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: auth",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=7",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=cache_v2",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: 99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=cache_v2",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Memory usage at auth%",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Database connection failed: timeout after auths",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: 512",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=user_service",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "SSL certificate expired for domain=orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Service 3 returned 500",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Out of memory \u2014 killing process orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Memory usage at 512%",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Memory usage at orders%",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/99.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Deprecated API endpoint called: /api/v1/123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Cache hit for key=42",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Health check passed",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in 42ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Retry attempt 7 for service=orders",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Unhandled exception in module=88",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Request completed in 512ms",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/auth.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Disk usage at user_service% \u2014 write operations failing",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "File not found: /var/data/99.json",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "SSL certificate expired for domain=7",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "CRITICAL",
+    "message": "Disk usage at 7% \u2014 write operations failing",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: 99",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "WARNING",
+    "message": "Memory usage at payments%",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=123",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "Scheduled job started: 88",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "INFO",
+    "message": "User login successful for user_id=cache_v2",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  },
+  {
+    "timestamp": "2026-05-05T17:29:57.062Z",
+    "level": "ERROR",
+    "message": "Database connection failed: timeout after 42s",
+    "parsed_at": "2026-05-05T17:30:18.241Z"
+  }
+]
