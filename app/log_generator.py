@@ -1,5 +1,4 @@
 import random
-import time
 import os
 from datetime import datetime, timezone
 
@@ -45,8 +44,9 @@ FILLERS = [
 def _random_message(level: str) -> str:
     template = random.choice(MESSAGES[level])
     try:
-        return template.format(*[random.choice(FILLERS)
-                                  for _ in range(template.count("{}"))])
+        return template.format(
+            *[random.choice(FILLERS) for _ in range(template.count("{}"))]
+        )
     except (IndexError, KeyError):
         return template
 

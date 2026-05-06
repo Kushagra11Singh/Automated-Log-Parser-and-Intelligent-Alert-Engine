@@ -1,10 +1,7 @@
 # tests/test_alert_engine.py
 import json
-import os
-import pytest
 from datetime import datetime, timezone, timedelta
 from app.alert_engine import check_alerts
-
 
 def _make_entries(level: str, count: int, minutes_ago: int = 1) -> list[dict]:
     ts = (datetime.now(timezone.utc) - timedelta(minutes=minutes_ago)).strftime(

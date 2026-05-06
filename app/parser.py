@@ -76,7 +76,10 @@ def parse_log_file(
         "level_breakdown": level_counts
     }
 
-    print(f"[parser] {parsed}/{total} lines parsed | {failed} malformed | breakdown: {level_counts}")
+    print(
+        f"[parser] {parsed}/{total} lines parsed | "
+        f"{failed} malformed | breakdown: {level_counts}"
+    )
     return summary
 
 

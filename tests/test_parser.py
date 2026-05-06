@@ -1,5 +1,4 @@
-# tests/test_parser.py
-import pytest
+
 from app.parser import parse_line
 
 

@@ -1,9 +1,7 @@
-# tests/test_api.py
-import json
-import pytest
-from unittest.mock import patch, MagicMock
-from app.api import app
 
+import pytest
+from unittest.mock import patch
+from app.api import app
 
 @pytest.fixture
 def client():
